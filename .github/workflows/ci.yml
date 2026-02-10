@@ -1,5 +1,5 @@
 name: CI
-# Force Git to detect change v1
+# Force Git to detect change v2
 
 on:
   push:
